@@ -1,1 +1,2 @@
+Line changed by Branch 2
 Line changed by Branch 1
