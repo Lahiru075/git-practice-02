@@ -1,1 +1,1 @@
-This is baseline text.
+Line changed by Branch 1
